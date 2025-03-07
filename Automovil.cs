@@ -16,7 +16,7 @@ namespace Otronose
             Año = año;
             NOpuertas = nOpuertas;
             Color = color;
-        }
+        } 
 
 
         public string Marca {  get; set; }
